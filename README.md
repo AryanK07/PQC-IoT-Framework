@@ -1,4 +1,4 @@
-# PQC-IoT-Framework
+# Design and Performance Evaluation of a Lightweight Post Quantum Security Framework for Resource Constrained IoT Devices
 
 Java/Maven project that explores a Post‑Quantum Cryptography (PQC) security layer for an IoT-style data pipeline, with optional MySQL persistence and a JavaFX dashboard UI.
 
