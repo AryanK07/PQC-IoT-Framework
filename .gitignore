@@ -8,6 +8,10 @@ target/
 out/
 .tmp-*.jsh
 
+### Local secrets & logs ###
+.env
+*.log
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
